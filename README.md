@@ -4,7 +4,7 @@ This repository provides any nyzo private key holder with the medium by which, b
 
 
 
-// todo add reference to the in-detail article
+More information: https://blog.benjaminvr.net/2024/08/nyzo-org-authentication-protocol-and-network-observations.html
 
 
 
